@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "263068648149",
+    "project_id": "police-d509c",
+    "storage_bucket": "police-d509c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263068648149:android:e74e94af73151df617985c",
+        "android_client_info": {
+          "package_name": "com.example.notifi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDl46XJcHdw9qF6ayM4bxk0f-f9PKtkBTc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
